@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">firstApp</string>
+    <string name='numero1'>Introduzca el primer numero</string>
+    <string name='numero2'>Introduzca el segundo numero</string>
+    <string name='resultado'>Resultado</string>
+    <string name='bsumar'>Sumar</string>
+    <string name='bsalir'>Salir</string>
+    <string name="title_activity_login">activity_login</string>
+</resources>
